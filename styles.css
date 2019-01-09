@@ -1,4 +1,10 @@
 body {
     background: url("https://ih1.redbubble.net/image.467313177.6806/flat,550x550,075,f.u1.jpg");
-    color: red;
+    color: black;
+}
+h1 {background-color:rgb(255, 0, 0);}
+
+.wrapper {
+    background: white;
+    padding: 20px;
 }
