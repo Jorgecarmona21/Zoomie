@@ -2,7 +2,13 @@ body {
     background: url("https://ih1.redbubble.net/image.467313177.6806/flat,550x550,075,f.u1.jpg");
     color: black;
 }
-h1 {background-color:rgb(255, 0, 0);}
+ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
 .wrapper {
     background: white;
